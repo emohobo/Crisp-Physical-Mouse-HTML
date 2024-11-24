@@ -102,7 +102,7 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.footer11-footer-links {
+.footer11-footer-links1 {
   gap: var(--dl-space-space-halfunit);
   display: flex;
   align-self: stretch;
@@ -120,7 +120,7 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.footer11-footer-links1 {
+.footer11-footer-links2 {
   gap: var(--dl-space-space-halfunit);
   display: flex;
   align-self: stretch;
@@ -145,7 +145,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.footer11-link {
+.footer11-link14 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -153,7 +153,7 @@
   align-items: center;
   flex-shrink: 0;
 }
-.footer11-link1 {
+.footer11-link15 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -161,7 +161,7 @@
   align-items: center;
   flex-shrink: 0;
 }
-.footer11-link2 {
+.footer11-link16 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -169,7 +169,7 @@
   align-items: center;
   flex-shrink: 0;
 }
-.footer11-link3 {
+.footer11-link17 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -177,7 +177,7 @@
   align-items: center;
   flex-shrink: 0;
 }
-.footer11-link4 {
+.footer11-link18 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -202,7 +202,7 @@
   flex-shrink: 0;
   justify-content: space-between;
 }
-.footer11-footer-links2 {
+.footer11-footer-links3 {
   gap: 24px;
   display: flex;
   align-items: flex-start;
@@ -259,7 +259,7 @@
   .footer11-column1-title {
     text-align: center;
   }
-  .footer11-footer-links {
+  .footer11-footer-links1 {
     align-self: center;
   }
   .footer11-column2 {
@@ -268,7 +268,7 @@
   .footer11-column2-title {
     text-align: center;
   }
-  .footer11-footer-links1 {
+  .footer11-footer-links2 {
     align-self: center;
   }
   .footer11-column3 {
@@ -307,7 +307,7 @@
     align-items: center;
     justify-content: center;
   }
-  .footer11-footer-links {
+  .footer11-footer-links1 {
     align-items: center;
     justify-content: center;
   }
@@ -317,7 +317,7 @@
     align-items: center;
     justify-content: center;
   }
-  .footer11-footer-links1 {
+  .footer11-footer-links2 {
     align-items: center;
     justify-content: center;
   }
@@ -338,7 +338,7 @@
     align-items: center;
     justify-content: center;
   }
-  .footer11-footer-links2 {
+  .footer11-footer-links3 {
     align-items: center;
     flex-direction: column;
     justify-content: center;

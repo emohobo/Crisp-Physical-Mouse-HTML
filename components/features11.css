@@ -19,7 +19,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.features11-content {
+.features11-content1 {
   gap: 48px;
   display: flex;
   align-self: stretch;
@@ -32,21 +32,21 @@
 .features11-feature1 {
   flex: 1;
 }
-.features11-content1 {
+.features11-content2 {
   align-self: stretch;
   align-items: flex-start;
 }
 .features11-feature2 {
   flex: 1;
 }
-.features11-content2 {
+.features11-content3 {
   align-self: stretch;
   align-items: flex-start;
 }
 .features11-feature3 {
   flex: 1;
 }
-.features11-content3 {
+.features11-content4 {
   align-self: stretch;
   align-items: flex-start;
 }
@@ -74,7 +74,7 @@
   .features11-column {
     width: 100%;
   }
-  .features11-text1 {
+  .features11-text2 {
     text-align: center;
   }
   .features11-row {
@@ -101,10 +101,10 @@
     width: 100%;
     flex-direction: column;
   }
-  .features11-button {
+  .features11-button1 {
     width: 100%;
   }
-  .features11-button1 {
+  .features11-button2 {
     width: 100%;
   }
 }

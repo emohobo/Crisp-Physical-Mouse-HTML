@@ -1,4 +1,4 @@
-.contact7-container {
+.contact7-container1 {
   display: flex;
   position: relative;
   align-items: flex-start;
@@ -7,45 +7,25 @@
 .contact7-max-width {
   align-self: center;
 }
-.contact7-content {
+.contact7-content1 {
   width: 100%;
   margin-bottom: var(--dl-space-space-threeunits);
   justify-content: center;
 }
-.contact7-content1 {
+.contact7-content2 {
   gap: var(--dl-space-space-unit);
   display: flex;
   align-self: stretch;
   align-items: center;
   flex-direction: column;
 }
-.contact7-content2 {
+.contact7-content3 {
   width: 100%;
   align-items: flex-start;
   flex-direction: row;
   justify-content: space-between;
 }
-.contact7-container1 {
-  gap: var(--dl-space-space-oneandhalfunits);
-  flex: 1;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.contact7-image {
-  object-fit: cover;
-}
-.contact7-text2 {
-  text-align: center;
-}
 .contact7-container2 {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-}
-.contact7-container3 {
   gap: var(--dl-space-space-oneandhalfunits);
   flex: 1;
   display: flex;
@@ -55,10 +35,30 @@
 .contact7-image1 {
   object-fit: cover;
 }
-.contact7-text5 {
+.contact7-text3 {
   text-align: center;
 }
+.contact7-container3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
 .contact7-container4 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.contact7-image2 {
+  object-fit: cover;
+}
+.contact7-text6 {
+  text-align: center;
+}
+.contact7-container5 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -66,19 +66,19 @@
   justify-content: center;
 }
 @media(max-width: 991px) {
-  .contact7-content2 {
+  .contact7-content3 {
     align-items: center;
     flex-direction: column;
   }
 }
 @media(max-width: 767px) {
-  .contact7-content {
+  .contact7-content1 {
     gap: var(--dl-space-space-oneandhalfunits);
   }
-  .contact7-image {
+  .contact7-image1 {
     width: 100%;
   }
-  .contact7-image1 {
+  .contact7-image2 {
     width: 100%;
   }
 }

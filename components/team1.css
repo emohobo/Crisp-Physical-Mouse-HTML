@@ -14,7 +14,7 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.team1-content {
+.team1-content1 {
   gap: var(--dl-space-space-oneandhalfunits);
   width: 100%;
   display: flex;
@@ -28,23 +28,23 @@
   align-items: center;
   flex-direction: column;
 }
-.team1-text3 {
+.team1-text4 {
   font-style: normal;
   font-weight: 600;
 }
-.team1-text4 {
+.team1-text5 {
   text-align: center;
 }
-.team1-text5 {
+.team1-text6 {
   text-align: center;
 }
 .team1-link {
   display: contents;
 }
-.team1-icon {
+.team1-icon1 {
   text-decoration: none;
 }
-.team1-row {
+.team1-row1 {
   gap: var(--dl-space-space-twounits);
   width: 599px;
   height: 211px;
@@ -54,7 +54,7 @@
   flex-shrink: 0;
   justify-content: center;
 }
-.team1-container {
+.team1-container1 {
   gap: var(--dl-space-space-twounits);
   width: 100%;
   display: flex;
@@ -77,34 +77,26 @@
   display: flex;
   align-items: flex-start;
 }
-.team1-content1 {
+.team1-content2 {
   gap: var(--dl-space-space-sixunits);
   display: flex;
   align-self: stretch;
   align-items: center;
   flex-direction: column;
 }
-.team1-content2 {
+.team1-content3 {
   gap: 64px;
   display: flex;
   align-self: stretch;
   align-items: flex-start;
   flex-direction: column;
 }
-.team1-row1 {
+.team1-row2 {
   gap: var(--dl-space-space-twounits);
   display: flex;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
-  justify-content: center;
-}
-.team1-container1 {
-  gap: var(--dl-space-space-twounits);
-  width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: flex-start;
   justify-content: center;
 }
 .team1-container2 {
@@ -115,38 +107,46 @@
   align-items: flex-start;
   justify-content: center;
 }
+.team1-container3 {
+  gap: var(--dl-space-space-twounits);
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
 @media(max-width: 991px) {
-  .team1-content1 {
+  .team1-content2 {
     gap: var(--dl-space-space-fourunits);
   }
 }
 @media(max-width: 767px) {
-  .team1-row {
+  .team1-row1 {
     align-items: center;
     flex-direction: column;
   }
-  .team1-row1 {
+  .team1-row2 {
     align-items: center;
     flex-direction: column;
   }
 }
 @media(max-width: 479px) {
-  .team1-text {
-    text-align: center;
-  }
   .team1-text1 {
     text-align: center;
   }
   .team1-text2 {
     text-align: center;
   }
-  .team1-container {
-    flex-direction: column;
+  .team1-text3 {
+    text-align: center;
   }
   .team1-container1 {
     flex-direction: column;
   }
   .team1-container2 {
+    flex-direction: column;
+  }
+  .team1-container3 {
     flex-direction: column;
   }
 }
